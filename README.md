@@ -117,6 +117,10 @@ If you use or reference this work, please cite:
 > *Federated Orthogonal Training*, GitHub repository, 2023.  
 > [https://github.com/duygunuryldz/Federated_Orthogonal_Training](https://github.com/duygunuryldz/Federated_Orthogonal_Training)
 
+> **Jingtao Li.**  
+> *Awesome Split Learning*, GitHub repository, 2023.  
+> [https://github.com/zlijingtao/Awesome-Split-Learning](https://github.com/zlijingtao/Awesome-Split-Learning)
+
 
 ## Contact
 
