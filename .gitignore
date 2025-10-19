@@ -1,0 +1,73 @@
+# ============================
+# Python / PyTorch Projects
+# ============================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch and model artifacts
+*.pt
+*.pth
+*.pkl
+
+# Logs and outputs
+logs/
+*.log
+*.out
+*.err
+
+# Experiment results
+*.csv
+*.xlsx
+*.json
+*.npy
+*.npz
+
+# Datasets
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Cache
+*.cache/
+.cache/
+tmp/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Slurm / HPC job outputs
+slurm-*.out
+*.sbatch
+*.sh~
+
+# Latex or paper build outputs (if using Overleaf)
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.out
+*.synctex.gz
