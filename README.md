@@ -33,7 +33,7 @@ By periodically updating the projection basis using **top-r Singular Value Decom
 - Compatible with multi-GPU (DataParallel) setup
  
 
-### 🧮 Algorithm: FedProject Applied at the Cut Layer in Split Learning
+### Algorithm: FedProject Applied at the Cut Layer in Split Learning
 
 ```text
 Algorithm 1: FedProject Applied at the Cut Layer in Split Learning
